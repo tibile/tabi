@@ -1,0 +1,10 @@
+D:\selectfiles\SelectFiles\SelectFiles\bin\Debug\SelectFiles.exe.config
+D:\selectfiles\SelectFiles\SelectFiles\bin\Debug\SelectFiles.exe
+D:\selectfiles\SelectFiles\SelectFiles\bin\Debug\SelectFiles.pdb
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.csprojResolveAssemblyReference.cache
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.Form1.resources
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.Properties.Resources.resources
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.csproj.GenerateResource.Cache
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.csproj.CoreCompileInputs.cache
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.exe
+D:\selectfiles\SelectFiles\SelectFiles\obj\Debug\SelectFiles.pdb
